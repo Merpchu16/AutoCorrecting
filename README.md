@@ -1,1 +1,3 @@
 # AutoCorrecting
+
+pip install pyspellchecker
