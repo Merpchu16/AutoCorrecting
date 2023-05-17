@@ -46,7 +46,7 @@ class Autocorrector:
 
 def main():
     autocorrector = Autocorrector()
-    dictionary_file = 'dictionary.txt'
+    dictionary_file = 'theProject.txt'
     autocorrector.load_dictionary(dictionary_file)
 
     user_input = input("Enter a sentence: ")
