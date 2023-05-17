@@ -5,6 +5,8 @@ To begin, please install these two libraries below
 
 # pip install pyspellchecker
 # pip install python-Levenshtein
+# pip install difflib
+
 
 Run the program and in the terminal you will see:
 # Enter a sentence: 
